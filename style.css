@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+#mainPage{
+    background-image: url('./images/newLP1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:  center;
+    width: 100vw;
+    height: 100vh;
+}
+.LogoColor{
+    color: #363565;
+    font-weight: 700;
+    font-size: 18px;
+}
+.navLinksColor{
+    color: #8a8a8a;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight:600;
+}
+.nav-item{
+    padding-left: 1em;
+}
+.iconMenuColor{
+    color: #363565;
+}
+.navLinksColor:hover{
+    color: white;
+    border-radius: 20px;
+    background-color: #ff9f00;
+}
+.me-auto{
+    margin-left: auto!important;
+}
+.h1MainColor{
+color: #353662;
+font-weight: 700;
+font-size: 54px;
+}
+.pMainColor{
+    color: #a2a2a2;
+    font-family: 'Open Sans'
+}
+.buttonMainColor{
+    background-color:#ffab00;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 0px 11px 26px -4px rgba(0,0,0,0.63);
+    font-size: 19px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+}
+.buttonMainColor:hover{
+    color: white;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 19px;
+}
+/* .div{
+   width: inherit;
+} */
